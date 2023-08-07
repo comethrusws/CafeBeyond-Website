@@ -564,3 +564,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #333;
 }
+
+.scroll-to-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba(107, 221, 31, 0.514);
+    color: #0000009c;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    display: block;
+  }
