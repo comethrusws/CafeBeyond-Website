@@ -104,6 +104,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #8eb640;
 	font-weight: 700;
 	letter-spacing: 1px;
+	margin-top: -27px;
+	margin-left: -80px;
+
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
@@ -186,6 +189,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: 700;
 	color: #fff;
 	font-size: 10em;
 	font-weight: 700;
@@ -339,7 +344,6 @@ ol.type li a:hover {
 	z-index: 1
 }
 .isotope, .isotope .isotope-item {
-	/* change duration value to whatever you like */
 	-webkit-transition-duration: 0.8s;
 	-moz-transition-duration: 0.8s;
 	transition-duration: 0.8s;
